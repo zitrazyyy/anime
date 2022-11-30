@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Nerko+One&family=PT+Sans&family=Roboto:wght@500&family=Rubik&family=Rubik+Microbe&family=Ubuntu&display=swap");
+body {
+  font-family: Rubik, sans-serif;
+  background: rgb(17 17 18);
+  color: white;
+}
+.header {
+  padding: 14px 0;
+  text-align: center;
+  font-size: 40px;
+}
+img {
+  width: 250px;
+  border-radius: 20px;
+}
+.dop-inf {
+  color: rgb(128 128 129);
+  font-size: 14px;
+}
+.main-inf {
+  width: 250px;
+  font-size: 19px;
+  padding: 8px 0;
+}
+.perviu,
+.bluelock,
+.monstr,
+.day91,
+.dok-stone,
+.hioka,
+.basket,
+.hxh,
+.smert7,
+.baki {
+  display: inline-block;
+  margin: 10px 26px;
+}
+.conteiner {
+  background: rgb(24 24 26);
+  border: 2px solid rgb(52 52 54);
+  border-radius: 8px;
+  margin: 0 130px;
+}
+.perviu img:hover,
+.bluelock img:hover,
+.monstr img:hover,
+.day91 img:hover,
+.dok-stone img:hover,
+.hioka img:hover,
+.basket img:hover,
+.hxh img:hover,
+.smert7 img:hover,
+.baki img:hover {
+  width: 255px;
+  opacity: 0.6;
+  transition: 0.25s
+}
+a{
+  text-decoration: none;
+  color: white
+}
+a:hover{
+  color: rgb(204, 203, 203);
+
+}
