@@ -2,4 +2,4 @@
 
 ## You can see my result here
 
-[Website on HTML & CSS](https://zitrazyyy.github.io/top-anime/)
+[Website on HTML & CSS](zitrazyyy.github.io/anime/ы)
